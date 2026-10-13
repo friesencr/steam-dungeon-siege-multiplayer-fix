@@ -1,0 +1,18 @@
+# Local game and Proton backups, not distributable patch files.
+/pfx.before-native-directplay/
+**/dsfix-backups/
+/DungeonSiege.ini.*
+/widescreen-*.original
+/widescreen-*.updated
+*.log
+
+# Local agent configuration and credentials.
+/.agents/
+/.codex/
+/.aws/
+
+# Editor and operating-system files.
+.DS_Store
+Thumbs.db
+*.swp
+*~

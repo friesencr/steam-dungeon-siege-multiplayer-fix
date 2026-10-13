@@ -1,0 +1,6 @@
+# Check out scripts with the line endings required by their platforms.
+*.sh text eol=lf
+*.bat text eol=crlf
+*.md text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
