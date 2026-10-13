@@ -136,3 +136,7 @@ To undo the Linux DirectPlay installation too, close Steam, move the current `pf
 ## Verification
 
 The Linux multiplayer and 1080p changes were confirmed working on the installation these scripts were created for. Script checks covered discovery, backups, repeated runs, and configuration preservation. The Windows script's configuration and mocked feature-enable flow were tested with PowerShell; actual Windows DirectPlay activation has not been tested here.
+
+## Reference
+
+[GenesisFR's Dungeon Siege 1 Troubleshooting Guide — Play MP](https://github.com/GenesisFR/DS1TroubleshootingGuide#play-mp) documents the multiplayer startup setting used by these scripts and links to related troubleshooting advice.
